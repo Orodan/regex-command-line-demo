@@ -1,0 +1,12 @@
+{
+  "name": "regex-command-line-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js --require src/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
